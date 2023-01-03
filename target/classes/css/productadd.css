@@ -1,0 +1,11 @@
+.block {
+    width: 900px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.form td {
+    padding: 10px;
+}
